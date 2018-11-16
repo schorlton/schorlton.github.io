@@ -1,7 +1,10 @@
-.section .container div.has-text-centered {
+.section .container div:not(#educational).has-text-centered{
   text-align: left !important;
   }
 a{
   text-decoration: underline;
   color: #4a4a4a;
+}
+div#educational {
+	text-align: center;
 }
