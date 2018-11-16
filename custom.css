@@ -1,3 +1,7 @@
 .section .container div.has-text-centered {
   text-align: left !important;
+  }
+a{
+  text-decoration: underline;
+  color: #4a4a4a;
 }
