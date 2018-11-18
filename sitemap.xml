@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samchorlton.com/categories/</loc>
+    <loc>samchorlton.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://samchorlton.com/</loc>
+    <loc>samchorlton.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://samchorlton.com/tags/</loc>
+    <loc>samchorlton.com/tags/</loc>
     <priority>0</priority>
   </url>
   
